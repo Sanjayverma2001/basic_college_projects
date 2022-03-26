@@ -1,3 +1,3 @@
-# basic_college_projects
+#Bank Management System 
 This repository for college projects
 
